@@ -23,8 +23,8 @@ Epost: heleneprescott@gmail.com
 ## Sammendrag
 
 Denne rapporten er et endelig resultat av bachelorprosjektet til fire Dataingeniørstudenter ved fakultet for Teknologi, Kunst og Design (TKD) på OsloMET.
-Arbeid og ferdigstillelse av oppgaven har blitt gjennomført i løpet av våren 2022, med Forzasys som oppdragsgiver. Deres overordnede mål er å utvikle en
-funksjon for prediksjon av skade som kan implementeres i applikasjonen pmSys, brukt for loggføring av velværeparametere fra idrettsutøvere. <br />
+Arbeid og ferdigstillelse av oppgaven har blitt gjennomført i løpet av våren 2022, med Forzasys som oppdragsgiver. Deres overordnede mål er å utvikle en funksjon
+for prediksjon av skade som kan implementeres i applikasjonen pmSys, som til nå hovedsakelig er brukt til loggføring av velværeparametere fra idrettsutøvere.  <br />
 
 Rapporten presenterer  prosessen med å utforske løsninger innen maskinlæring, og videre predikere en utøvers opplevde dagsform basert på historisk data. 
 Det har blitt fokusert på tre valgte maskinlæringsmodeller; Random Forest, Autoregressive Integrated Moving Average og Long Short-Term Memory. Samtidig 
