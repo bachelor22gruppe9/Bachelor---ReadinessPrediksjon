@@ -27,9 +27,9 @@ Arbeid og ferdigstillelse av oppgaven har blitt gjennomført i løpet av våren 
 for prediksjon av skade som kan implementeres i applikasjonen pmSys, som til nå hovedsakelig er brukt til loggføring av velværeparametere fra idrettsutøvere.  <br />
 
 Rapporten presenterer  prosessen med å utforske løsninger innen maskinlæring, og videre predikere en utøvers opplevde dagsform basert på historisk data. 
-Det har blitt fokusert på tre valgte maskinlæringsmodeller; Random Forest, Autoregressive Integrated Moving Average og Long Short-Term Memory. Samtidig 
-har gruppen sett på om resultatet potensielt kan brukes som et skadeforebyggende verktøy for både trener og atlet. På denne måten vil man kunne fremme 
-videre progresjon og helse for idrettsutøveren. <br />
+Det har blitt fokusert på tre valgte maskinlæringsmodeller; Random Forest, Autoregressive Integrated Moving Average (ARIMA) og Long Short-Term Memory (LSTM).
+Samtidig har gruppen sett på om resultatet potensielt kan brukes som et skadeforebyggende verktøy for både trener og atlet. På denne måten vil man kunne 
+fremme videre progresjon og helse for idrettsutøveren. <br />
 
 Med en gjennomgående drøfting av valgene som har blitt tatt i løpet av prosjektperioden, forklares arbeidet som er gjort tydelig for leseren. Vi gjør
 rede for beslutninger angående teknologi, fremgangsmåter og modeller presentert i rapporten. Den endelige konklusjonen vil baseres på det helhetlige
